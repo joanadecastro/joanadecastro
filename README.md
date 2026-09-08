@@ -1,71 +1,102 @@
-# Hi, welcome!!! 👋
+# Hi, I'm Joana Castro 👋
 
-<p>
-Frontend Developer (Angular & TypeScript) with a strong UI/UX background.
+### UI/UX Designer & Front-end Developer
 
-I build scalable, responsive, and user-centered web applications, combining solid frontend development skills with a strong eye for design.
+I work across **design and development**, creating digital products, interfaces and web experiences that combine strong visual thinking with functional implementation.
 
-Currently working with Angular and TypeScript, with additional experience in React and modern frontend technologies.
-</p>
+With **15+ years of experience in design** and **4+ years in front-end development**, my background spans UI/UX, branding, responsive interfaces, SaaS platforms and front-end development.
 
----
-
-## 🚀 Key Skills and Expertise
-
-- **Frontend Development:** Angular, TypeScript, JavaScript, HTML, CSS  
-- **React Experience:** Experience building applications using React and modern libraries  
-- **UI/UX:** Strong focus on usability, responsive design, and user-centered interfaces  
-- **Problem Solving:** Passionate about building efficient and scalable solutions  
+Currently focused on **Angular and TypeScript**, with particular attention to usability, design systems, responsive behaviour and translating design into production-ready interfaces.
 
 ---
 
-## 🛠️ TECHNOLOGIES
+## Selected Work
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angular logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="50" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="50" alt="illustrator logo"  />
-</div>
+### Atlyon — Portfolio & Digital Products
+
+Atlyon brings together selected projects across **UI/UX, front-end development and digital product design**, from initial concept and visual direction through to implementation.
+
+🌐 **Portfolio:** https://atlyon.pt  
+💻 **Source Code:** https://github.com/joanadecastro/atlyon-digital
 
 ---
 
-## 📧 CONTACT ME
+## Featured Projects
 
-<div align="left">
-  <a href="mailto:joanacastro.webdeveloper@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://www.linkedin.com/in/joanacastrowebdeveloper/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-</div>
+### Civitas — Energy Management Platform
+
+UI/UX and front-end development for an energy management SaaS platform.
+
+The project includes complex dashboards, reusable components, data visualisation and responsive interfaces, connecting product design decisions with front-end implementation.
+
+**UI/UX · Front-end**
 
 ---
 
-## ⭐ GITHUB STATS
+### LicitaNow — Landing Page Redesign
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joanadecastro&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox_light" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joanadecastro&layout=compact&theme=gruvbox_light" height="150" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joanadecastro&theme=gruvbox&area=true&hide_border=true" height="250" />
-</div>
+Redesign of a digital platform for companies and suppliers, focused on improving visual hierarchy, communication and the overall user experience.
+
+The project covers UI/UX, responsive design and front-end implementation.
+
+**UI/UX · Front-end**
+
+---
+
+### Smart Charging — EV Charging Management
+
+UI/UX work for a SaaS platform focused on electric-vehicle charging management.
+
+**UI/UX · Front-end**
+
+Full case studies and additional work are available at:
+
+🌐 **https://atlyon.pt**
+
+---
+
+## Expertise
+
+**UI/UX & Product Design**  
+Figma · Interface Design · User Experience · Design Systems · Responsive Design
+
+**Front-end Development**  
+Angular · TypeScript · JavaScript · HTML · SCSS/CSS
+
+**Design**  
+Branding · Graphic Design · Digital Product Design
+
+**Additional Front-end Experience**  
+React · Responsive Web Development · Component-based Interfaces
+
+---
+
+## How I Work
+
+I approach projects from both a **design and technical perspective**.
+
+My process typically moves through:
+
+**Context & Objectives → Strategy & Direction → Design & Development**
+
+This allows me to work across the complete digital product process — understanding the problem, defining the visual and functional direction, designing the interface and bringing it closer to implementation.
+
+---
+
+## Connect
+
+🌐 **Portfolio**  
+https://atlyon.pt
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/joanadecastro/
+
+💻 **GitHub**  
+https://github.com/joanadecastro
+
+✉️ **Email**  
+joanacastro.webdeveloper@gmail.com
+
+---
+
+### Design & Development — Joana Castro
