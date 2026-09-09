@@ -6,7 +6,7 @@ I work across **design and development**, creating digital products, interfaces 
 
 With **15+ years of experience in design** and **4+ years in front-end development**, my background spans UI/UX, branding, responsive interfaces, SaaS platforms and front-end development.
 
-Currently focused on **Angular and TypeScript**, with particular attention to usability, design systems, responsive behaviour and translating design into production-ready interfaces.
+Currently focused on **Angular and TypeScript**, with particular attention to usability, design systems, responsive behaviour and translating design into production-ready interfaces. I also integrate **AI-assisted tools** into my design and development workflow to support exploration, implementation and iteration.
 
 ---
 
@@ -49,6 +49,8 @@ UI/UX work for a SaaS platform focused on electric-vehicle charging management.
 
 **UI/UX · Front-end**
 
+---
+
 Full case studies and additional work are available at:
 
 🌐 **https://atlyon.pt**
@@ -62,6 +64,9 @@ Figma · Interface Design · User Experience · Design Systems · Responsive Des
 
 **Front-end Development**  
 Angular · TypeScript · JavaScript · HTML · SCSS/CSS
+
+**AI-Assisted Workflow**  
+Claude Code · OpenAI Codex · Google Stitch
 
 **Design**  
 Branding · Graphic Design · Digital Product Design
@@ -77,9 +82,11 @@ I approach projects from both a **design and technical perspective**.
 
 My process typically moves through:
 
-**Context & Objectives → Strategy & Direction → Design & Development**
+**Context & Objectives → Strategy & Direction → Design & Development → Validation & Delivery**
 
-This allows me to work across the complete digital product process — understanding the problem, defining the visual and functional direction, designing the interface and bringing it closer to implementation.
+This allows me to work across the complete digital product process — understanding the problem, defining the visual and functional direction, designing the interface and bringing it through implementation and validation.
+
+I use **AI-assisted tools where they add value to the workflow**, supporting faster exploration, development and iteration while maintaining control over UX, visual quality and implementation decisions.
 
 ---
 
