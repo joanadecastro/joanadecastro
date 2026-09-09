@@ -16,8 +16,8 @@ Currently focused on **Angular and TypeScript**, with particular attention to us
 
 Atlyon brings together selected projects across **UI/UX, front-end development and digital product design**, from initial concept and visual direction through to implementation.
 
-🌐 **Portfolio:** https://atlyon.pt  
-💻 **Source Code:** https://github.com/joanadecastro/atlyon-digital
+**Portfolio:** https://atlyon.pt  
+**Source Code:** https://github.com/joanadecastro/atlyon-digital
 
 ---
 
@@ -53,7 +53,7 @@ UI/UX work for a SaaS platform focused on electric-vehicle charging management.
 
 Full case studies and additional work are available at:
 
-🌐 **https://atlyon.pt**
+**https://atlyon.pt**
 
 ---
 
@@ -92,16 +92,16 @@ I use **AI-assisted tools where they add value to the workflow**, supporting fas
 
 ## Connect
 
-🌐 **Portfolio**  
+**Portfolio**  
 https://atlyon.pt
 
-💼 **LinkedIn**  
+**LinkedIn**  
 https://www.linkedin.com/in/joanadecastro/
 
-💻 **GitHub**  
+**GitHub**  
 https://github.com/joanadecastro
 
-✉️ **Email**  
+**Email**  
 joanacastro.webdeveloper@gmail.com
 
 ---
