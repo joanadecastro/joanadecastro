@@ -1,4 +1,4 @@
-# Hi, I'm Joana Castro 👋
+# Hi, I'm Joana Castro
 
 ### UI/UX Designer & Front-end Developer
 
