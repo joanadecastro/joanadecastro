@@ -6,7 +6,7 @@ I work across **design and development**, creating digital products, interfaces 
 
 With **15+ years of experience in design** and **4+ years in front-end development**, my background spans UI/UX, branding, responsive interfaces, SaaS platforms and front-end development.
 
-Currently focused on **Angular and TypeScript**, with particular attention to usability, design systems, responsive behaviour and translating design into production-ready interfaces. I also integrate **AI-assisted tools** into my design and development workflow to support exploration, implementation and iteration.
+Currently focused on **Angular and TypeScript**, with particular attention to usability, design systems, responsive behaviour and translating design into functional interfaces. I also integrate **AI-assisted tools** into my design and development workflow to support exploration, implementation and iteration.
 
 ---
 
@@ -29,25 +29,33 @@ UI/UX and front-end development for an energy management SaaS platform.
 
 The project includes complex dashboards, reusable components, data visualisation and responsive interfaces, connecting product design decisions with front-end implementation.
 
-**UI/UX · Front-end**
+**UI/UX · SaaS · Front-end**
+
+**[View case study ↗](https://atlyon.pt/case-studies/civitas)**
 
 ---
 
 ### LicitaNow — Landing Page Redesign
 
-Redesign of a digital platform for companies and suppliers, focused on improving visual hierarchy, communication and the overall user experience.
+Redesign and front-end adaptation of a landing page created for a competition proposal, focused on visual hierarchy, communication and user experience.
 
-The project covers UI/UX, responsive design and front-end implementation.
+The implementation includes responsive behaviour, custom interactions and accessibility improvements, developed from an existing structural base.
 
-**UI/UX · Front-end**
+**UI/UX · Redesign · Front-end**
+
+**[View case study ↗](https://atlyon.pt/case-studies/licitanow)** · **[View on GitHub ↗](https://github.com/joanadecastro/licitanow-redesign)**
 
 ---
 
-### Smart Charging — EV Charging Management
+### JUH — Angular E-commerce
 
-UI/UX work for a SaaS platform focused on electric-vehicle charging management.
+Personal Angular e-commerce project focused on front-end application logic and responsive implementation.
 
-**UI/UX · Front-end**
+The project includes product variants, shared reactive cart state with Angular Signals, local persistence, Reactive Forms checkout, route-based product states and automated testing.
+
+**Angular · TypeScript · Front-end**
+
+**[View on GitHub ↗](https://github.com/joanadecastro/juh-angular-ecommerce)**
 
 ---
 
@@ -72,7 +80,7 @@ Claude Code · OpenAI Codex · Google Stitch
 Branding · Graphic Design · Digital Product Design
 
 **Additional Front-end Experience**  
-React · Responsive Web Development · Component-based Interfaces
+React · React Native · Responsive Web Development · Component-based Interfaces
 
 ---
 
@@ -84,7 +92,7 @@ My process typically moves through:
 
 **Context & Objectives → Strategy & Direction → Design & Development → Validation & Delivery**
 
-This allows me to work across the complete digital product process — understanding the problem, defining the visual and functional direction, designing the interface and bringing it through implementation and validation.
+This allows me to work across the digital product process — understanding the problem, defining the visual and functional direction, designing the interface and bringing it through implementation and validation.
 
 I use **AI-assisted tools where they add value to the workflow**, supporting faster exploration, development and iteration while maintaining control over UX, visual quality and implementation decisions.
 
