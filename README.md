@@ -16,11 +16,13 @@ Currently focused on **Angular and TypeScript**, with particular attention to us
 
 Atlyon brings together selected projects across **UI/UX, front-end development and digital product design**, from initial concept and visual direction through to implementation.
 
-<p align="center">
+<br>
+
+<p align="left">
   <a href="https://atlyon.pt">
-    <img src="https://img.shields.io/badge/%20%20View%20Portfolio%20%20-F1F3F5?style=flat&labelColor=F1F3F5" alt="View Portfolio">
+    <img src="https://img.shields.io/badge/%20%20View%20Portfolio%20%20-F1F3F5?style=flat" alt="View Portfolio">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/joanadecastro/atlyon-digital">
     <img src="https://img.shields.io/badge/%20%20Source%20Code%20%20-F1F3F5?style=flat&logo=github&logoColor=24292F" alt="Source Code">
   </a>
@@ -38,9 +40,11 @@ The project includes complex dashboards, reusable components, data visualisation
 
 **UI/UX · SaaS · Front-end**
 
-<p align="center">
+<br>
+
+<p align="left">
   <a href="https://atlyon.pt/case-studies/civitas">
-    <img src="https://img.shields.io/badge/%20%20View%20Case%20Study%20%20-F1F3F5?style=flat&labelColor=F1F3F5" alt="View Case Study">
+    <img src="https://img.shields.io/badge/%20%20View%20Case%20Study%20%20-F1F3F5?style=flat" alt="View Case Study">
   </a>
 </p>
 
@@ -54,11 +58,13 @@ The implementation includes responsive behaviour, custom interactions and access
 
 **UI/UX · Redesign · Front-end**
 
-<p align="center">
+<br>
+
+<p align="left">
   <a href="https://atlyon.pt/case-studies/licitanow">
-    <img src="https://img.shields.io/badge/%20%20View%20Case%20Study%20%20-F1F3F5?style=flat&labelColor=F1F3F5" alt="View Case Study">
+    <img src="https://img.shields.io/badge/%20%20View%20Case%20Study%20%20-F1F3F5?style=flat" alt="View Case Study">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/joanadecastro/licitanow-redesign">
     <img src="https://img.shields.io/badge/%20%20View%20on%20GitHub%20%20-F1F3F5?style=flat&logo=github&logoColor=24292F" alt="View on GitHub">
   </a>
@@ -74,7 +80,9 @@ The project includes product variants, shared reactive cart state with Angular S
 
 **Angular · TypeScript · Front-end**
 
-<p align="center">
+<br>
+
+<p align="left">
   <a href="https://github.com/joanadecastro/juh-angular-ecommerce">
     <img src="https://img.shields.io/badge/%20%20View%20on%20GitHub%20%20-F1F3F5?style=flat&logo=github&logoColor=24292F" alt="View on GitHub">
   </a>
