@@ -16,8 +16,8 @@ Currently focused on **Angular and TypeScript**, with particular attention to us
 
 Atlyon brings together selected projects across **UI/UX, front-end development and digital product design**, from initial concept and visual direction through to implementation.
 
-**Portfolio:** https://atlyon.pt  
-**Source Code:** https://github.com/joanadecastro/atlyon-digital
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-111111?style=for-the-badge)](https://atlyon.pt)
+[![Source Code](https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joanadecastro/atlyon-digital)
 
 ---
 
@@ -31,7 +31,7 @@ The project includes complex dashboards, reusable components, data visualisation
 
 **UI/UX · SaaS · Front-end**
 
-**[View case study ↗](https://atlyon.pt/case-studies/civitas)**
+[![View Case Study](https://img.shields.io/badge/View_Case_Study-111111?style=for-the-badge)](https://atlyon.pt/case-studies/civitas)
 
 ---
 
@@ -43,7 +43,8 @@ The implementation includes responsive behaviour, custom interactions and access
 
 **UI/UX · Redesign · Front-end**
 
-**[View case study ↗](https://atlyon.pt/case-studies/licitanow)** · **[View on GitHub ↗](https://github.com/joanadecastro/licitanow-redesign)**
+[![View Case Study](https://img.shields.io/badge/View_Case_Study-111111?style=for-the-badge)](https://atlyon.pt/case-studies/licitanow)
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joanadecastro/licitanow-redesign)
 
 ---
 
@@ -55,7 +56,7 @@ The project includes product variants, shared reactive cart state with Angular S
 
 **Angular · TypeScript · Front-end**
 
-**[View on GitHub ↗](https://github.com/joanadecastro/juh-angular-ecommerce)**
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joanadecastro/juh-angular-ecommerce)
 
 ---
 
