@@ -18,10 +18,10 @@ Atlyon brings together selected projects across **UI/UX, front-end development a
 
 <p align="right">
   <a href="https://atlyon.pt">
-    <img src="https://img.shields.io/badge/View_Portfolio-0969DA?style=flat&logoColor=white" alt="View Atlyon portfolio">
+    <img src="https://img.shields.io/badge/View%20Portfolio-F1F3F5?style=flat&labelColor=F1F3F5&color=F1F3F5" alt="View Portfolio">
   </a>
   <a href="https://github.com/joanadecastro/atlyon-digital">
-    <img src="https://img.shields.io/badge/Source_Code-57606A?style=flat&logo=github&logoColor=white" alt="View Atlyon source code">
+    <img src="https://img.shields.io/badge/Source%20Code-F1F3F5?style=flat&logo=github&logoColor=24292F" alt="Source Code">
   </a>
 </p>
 
@@ -39,7 +39,7 @@ The project includes complex dashboards, reusable components, data visualisation
 
 <p align="right">
   <a href="https://atlyon.pt/case-studies/civitas">
-    <img src="https://img.shields.io/badge/View_Case_Study-0969DA?style=flat&logoColor=white" alt="View Civitas case study">
+    <img src="https://img.shields.io/badge/View%20Case%20Study-F1F3F5?style=flat" alt="View Case Study">
   </a>
 </p>
 
@@ -55,10 +55,10 @@ The implementation includes responsive behaviour, custom interactions and access
 
 <p align="right">
   <a href="https://atlyon.pt/case-studies/licitanow">
-    <img src="https://img.shields.io/badge/View_Case_Study-0969DA?style=flat&logoColor=white" alt="View LicitaNow case study">
+    <img src="https://img.shields.io/badge/View%20Case%20Study-F1F3F5?style=flat" alt="View Case Study">
   </a>
   <a href="https://github.com/joanadecastro/licitanow-redesign">
-    <img src="https://img.shields.io/badge/GitHub-57606A?style=flat&logo=github&logoColor=white" alt="View LicitaNow on GitHub">
+    <img src="https://img.shields.io/badge/GitHub-F1F3F5?style=flat&logo=github&logoColor=24292F" alt="GitHub">
   </a>
 </p>
 
@@ -74,7 +74,7 @@ The project includes product variants, shared reactive cart state with Angular S
 
 <p align="right">
   <a href="https://github.com/joanadecastro/juh-angular-ecommerce">
-    <img src="https://img.shields.io/badge/GitHub-57606A?style=flat&logo=github&logoColor=white" alt="View JUH on GitHub">
+    <img src="https://img.shields.io/badge/GitHub-F1F3F5?style=flat&logo=github&logoColor=24292F" alt="GitHub">
   </a>
 </p>
 
