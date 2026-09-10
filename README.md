@@ -19,12 +19,8 @@ Atlyon brings together selected projects across **UI/UX, front-end development a
 <br>
 
 <p align="left">
-  <a href="https://atlyon.pt">
-    <img src="https://img.shields.io/badge/%20%20%20View%20Portfolio%20%20%20-E9ECEF?style=flat&labelColor=E9ECEF" alt="View Portfolio">
-  </a>
-  <a href="https://github.com/joanadecastro/atlyon-digital">
-    <img src="https://img.shields.io/badge/%20%20%20Source%20Code%20%20%20-E9ECEF?style=flat&logo=github&logoColor=24292F" alt="Source Code">
-  </a>
+  <a href="https://atlyon.pt"><img src="https://img.shields.io/badge/View%20Portfolio-E9ECEF?style=flat" alt="View Portfolio"></a>
+  <a href="https://github.com/joanadecastro/atlyon-digital"><img src="https://img.shields.io/badge/Source%20Code-E9ECEF?style=flat&logo=github&logoColor=24292F" alt="Source Code"></a>
 </p>
 
 ---
@@ -42,9 +38,7 @@ The project includes complex dashboards, reusable components, data visualisation
 <br>
 
 <p align="left">
-  <a href="https://atlyon.pt/case-studies/civitas">
-    <img src="https://img.shields.io/badge/%20%20%20View%20Case%20Study%20%20%20-E9ECEF?style=flat&labelColor=E9ECEF" alt="View Civitas Case Study">
-  </a>
+  <a href="https://atlyon.pt/case-studies/civitas"><img src="https://img.shields.io/badge/View%20Case%20Study-E9ECEF?style=flat" alt="View Civitas Case Study"></a>
 </p>
 
 ---
@@ -60,12 +54,8 @@ The implementation includes responsive behaviour, custom interactions and access
 <br>
 
 <p align="left">
-  <a href="https://atlyon.pt/case-studies/licitanow">
-    <img src="https://img.shields.io/badge/%20%20%20View%20Case%20Study%20%20%20-E9ECEF?style=flat&labelColor=E9ECEF" alt="View LicitaNow Case Study">
-  </a>
-  <a href="https://github.com/joanadecastro/licitanow-redesign">
-    <img src="https://img.shields.io/badge/%20%20%20View%20on%20GitHub%20%20%20-E9ECEF?style=flat&logo=github&logoColor=24292F" alt="View LicitaNow on GitHub">
-  </a>
+  <a href="https://atlyon.pt/case-studies/licitanow"><img src="https://img.shields.io/badge/View%20Case%20Study-E9ECEF?style=flat" alt="View LicitaNow Case Study"></a>
+  <a href="https://github.com/joanadecastro/licitanow-redesign"><img src="https://img.shields.io/badge/View%20on%20GitHub-E9ECEF?style=flat&logo=github&logoColor=24292F" alt="View LicitaNow on GitHub"></a>
 </p>
 
 ---
@@ -81,9 +71,7 @@ The project includes product variants, shared reactive cart state with Angular S
 <br>
 
 <p align="left">
-  <a href="https://github.com/joanadecastro/juh-angular-ecommerce">
-    <img src="https://img.shields.io/badge/%20%20%20View%20on%20GitHub%20%20%20-E9ECEF?style=flat&logo=github&logoColor=24292F" alt="View JUH on GitHub">
-  </a>
+  <a href="https://github.com/joanadecastro/juh-angular-ecommerce"><img src="https://img.shields.io/badge/View%20on%20GitHub-E9ECEF?style=flat&logo=github&logoColor=24292F" alt="View JUH on GitHub"></a>
 </p>
 
 ---
