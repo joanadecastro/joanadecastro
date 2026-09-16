@@ -19,8 +19,8 @@ Atlyon brings together selected projects across **UI/UX, front-end development a
 <br>
 
 <p align="left">
-  <a href="https://atlyon.pt"><img src="https://img.shields.io/badge/View%20Portfolio-E9ECEF?style=flat" alt="View Portfolio"></a>
-  <a href="https://github.com/joanadecastro/atlyon-digital"><img src="https://img.shields.io/badge/Source%20Code-E9ECEF?style=flat&logo=github&logoColor=24292F" alt="Source Code"></a>
+  <a href="https://atlyon.pt"><img height="32" src="https://img.shields.io/badge/View%20Portfolio-E9ECEF?style=flat" alt="View Portfolio"></a>
+  <a href="https://github.com/joanadecastro/atlyon-digital"><img height="32" src="https://img.shields.io/badge/Source%20Code-E9ECEF?style=flat&logo=github&logoColor=24292F" alt="Source Code"></a>
 </p>
 
 ---
@@ -38,7 +38,7 @@ The project includes complex dashboards, reusable components, data visualisation
 <br>
 
 <p align="left">
-  <a href="https://atlyon.pt/case-studies/civitas"><img src="https://img.shields.io/badge/View%20Case%20Study-E9ECEF?style=flat" alt="View Civitas Case Study"></a>
+  <a href="https://atlyon.pt/case-studies/civitas"><img height="32" src="https://img.shields.io/badge/View%20Case%20Study-E9ECEF?style=flat" alt="View Civitas Case Study"></a>
 </p>
 
 ---
@@ -54,8 +54,8 @@ The implementation includes responsive behaviour, custom interactions and access
 <br>
 
 <p align="left">
-  <a href="https://atlyon.pt/case-studies/licitanow"><img src="https://img.shields.io/badge/View%20Case%20Study-E9ECEF?style=flat" alt="View LicitaNow Case Study"></a>
-  <a href="https://github.com/joanadecastro/licitanow-redesign"><img src="https://img.shields.io/badge/View%20on%20GitHub-E9ECEF?style=flat&logo=github&logoColor=24292F" alt="View LicitaNow on GitHub"></a>
+  <a href="https://atlyon.pt/case-studies/licitanow"><img height="32" src="https://img.shields.io/badge/View%20Case%20Study-E9ECEF?style=flat" alt="View LicitaNow Case Study"></a>
+  <a href="https://github.com/joanadecastro/licitanow-redesign"><img height="32" src="https://img.shields.io/badge/View%20on%20GitHub-E9ECEF?style=flat&logo=github&logoColor=24292F" alt="View LicitaNow on GitHub"></a>
 </p>
 
 ---
@@ -71,7 +71,7 @@ The project includes product variants, shared reactive cart state with Angular S
 <br>
 
 <p align="left">
-  <a href="https://github.com/joanadecastro/juh-angular-ecommerce"><img src="https://img.shields.io/badge/View%20on%20GitHub-E9ECEF?style=flat&logo=github&logoColor=24292F" alt="View JUH on GitHub"></a>
+  <a href="https://github.com/joanadecastro/juh-angular-ecommerce"><img height="32" src="https://img.shields.io/badge/View%20on%20GitHub-E9ECEF?style=flat&logo=github&logoColor=24292F" alt="View JUH on GitHub"></a>
 </p>
 
 ---
@@ -89,6 +89,9 @@ Figma · Interface Design · User Experience · Design Systems · Responsive Des
 
 **Front-end Development**  
 Angular · TypeScript · JavaScript · HTML · SCSS/CSS
+
+**Testing & Quality Assurance**  
+Angular Testing · Responsive QA · Cross-device Testing · Interaction & Regression Testing
 
 **AI-Assisted Workflow**  
 Claude Code · OpenAI Codex · Google Stitch
@@ -112,6 +115,35 @@ My process typically moves through:
 This allows me to work across the digital product process — understanding the problem, defining the visual and functional direction, designing the interface and bringing it through implementation and validation.
 
 I use **AI-assisted tools where they add value to the workflow**, supporting faster exploration, development and iteration while maintaining control over UX, visual quality and implementation decisions.
+
+---
+
+## Quality Assurance & Testing
+
+I validate digital products across both **design and implementation**, combining automated checks with responsive and real-device testing.
+
+The Atlyon portfolio has been tested across desktop and mobile environments, including **physical iOS and Android devices**, with particular attention to:
+
+- Responsive layouts across multiple viewport sizes
+- Cross-device and mobile browser behaviour
+- Touch, swipe and carousel interactions
+- Image and video lightbox lifecycle
+- Autoplay and media behaviour
+- Navigation and scroll restoration
+- Repeated open/close interaction cycles
+- Dynamic mobile browser viewports
+- Accessibility and reduced-motion behaviour
+- Regression testing after responsive and interaction changes
+
+Automated validation includes:
+
+- Angular unit and interaction tests
+- TypeScript validation
+- Production build validation
+- Regression tests for critical interaction states
+- Git diff validation
+
+Real-device QA has also been used to identify mobile-specific edge cases that are difficult to reproduce through desktop emulation alone, particularly around **dynamic browser viewports, touch interactions, media lifecycle and navigation state**.
 
 ---
 
