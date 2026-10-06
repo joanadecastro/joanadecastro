@@ -1,12 +1,14 @@
 # Hi, I'm Joana Castro
 
-### UI/UX Designer & Front-end Developer
+### UI/UX Designer | Product Design | Front-end Background
 
-I work across **design and development**, creating digital products, interfaces and web experiences that combine strong visual thinking with functional implementation.
+I design **digital products, responsive interfaces and design systems**, combining strong visual thinking with a solid Front-end background.
 
-With **15+ years of experience in design** and **4+ years in front-end development**, my background spans UI/UX, branding, responsive interfaces, SaaS platforms and front-end development.
+With **15+ years of experience in design** and **4+ years in UI/UX and Front-end development**, my background spans digital product design, responsive interfaces, SaaS platforms, visual design and implementation.
 
-Currently focused on **Angular and TypeScript**, with particular attention to usability, design systems, responsive behaviour and translating design into functional interfaces. I also integrate **AI-assisted tools** into my design and development workflow to support exploration, implementation and iteration.
+Currently focused on **UI/UX and digital product design**, with particular attention to usability, design systems, responsive interfaces and implementation. My Front-end background in Angular and TypeScript helps me bridge the gap between design and development.
+
+I also integrate **AI-assisted tools** into my workflow to support exploration, implementation and iteration.
 
 ---
 
@@ -14,7 +16,7 @@ Currently focused on **Angular and TypeScript**, with particular attention to us
 
 ### Atlyon — Portfolio & Digital Products
 
-Atlyon brings together selected projects across **UI/UX, front-end development and digital product design**, from initial concept and visual direction through to implementation.
+Atlyon brings together selected projects across **UI/UX, product design and Front-end implementation**, from initial concept and visual direction through to responsive interfaces and implementation.
 
 <br>
 
@@ -29,11 +31,11 @@ Atlyon brings together selected projects across **UI/UX, front-end development a
 
 ### Civitas — Energy Management Platform
 
-UI/UX and front-end development for an energy management SaaS platform.
+UI/UX and product design for an energy management SaaS platform, supported by Front-end implementation.
 
-The project includes complex dashboards, reusable components, data visualisation and responsive interfaces, connecting product design decisions with front-end implementation.
+The project includes complex dashboards, reusable components, data visualisation and responsive interfaces, connecting product design decisions with implementation.
 
-**UI/UX · SaaS · Front-end**
+**UI/UX · Product Design · SaaS · Front-end**
 
 <br>
 
@@ -45,7 +47,7 @@ The project includes complex dashboards, reusable components, data visualisation
 
 ### LicitaNow — Landing Page Redesign
 
-Redesign and front-end adaptation of a landing page created for a competition proposal, focused on visual hierarchy, communication and user experience.
+UI/UX redesign and Front-end adaptation of a landing page created for a competition proposal, focused on visual hierarchy, communication and user experience.
 
 The implementation includes responsive behaviour, custom interactions and accessibility improvements, developed from an existing structural base.
 
@@ -62,7 +64,7 @@ The implementation includes responsive behaviour, custom interactions and access
 
 ### JUH — Angular E-commerce
 
-Personal Angular e-commerce project focused on front-end application logic and responsive implementation.
+Personal Angular e-commerce project focused on Front-end application logic and responsive implementation.
 
 The project includes product variants, shared reactive cart state with Angular Signals, local persistence, Reactive Forms checkout, route-based product states and automated testing.
 
@@ -85,7 +87,7 @@ Full case studies and additional work are available at:
 ## Expertise
 
 **UI/UX & Product Design**  
-Figma · Interface Design · User Experience · Design Systems · Responsive Design
+Figma · Interface Design · User Experience · Design Systems · Responsive Design · Prototyping
 
 **Front-end Development**  
 Angular · TypeScript · JavaScript · HTML · SCSS/CSS
@@ -96,8 +98,8 @@ Angular Testing · Responsive QA · Cross-device Testing · Interaction & Regres
 **AI-Assisted Workflow**  
 Claude Code · OpenAI Codex · Google Stitch
 
-**Design**  
-Branding · Graphic Design · Digital Product Design
+**Visual Design**  
+Branding · Graphic Design · Visual Identity
 
 **Additional Front-end Experience**  
 React · React Native · Responsive Web Development · Component-based Interfaces
@@ -106,15 +108,17 @@ React · React Native · Responsive Web Development · Component-based Interface
 
 ## How I Work
 
-I approach projects from both a **design and technical perspective**.
+I approach digital products primarily from a **UI/UX and product design perspective**, supported by a strong technical understanding of Front-end implementation.
 
 My process typically moves through:
 
-**Context & Objectives → Strategy & Direction → Design & Development → Validation & Delivery**
+**Context & Objectives → Strategy & Direction → UI/UX & Product Design → Validation & Delivery**
 
-This allows me to work across the digital product process — understanding the problem, defining the visual and functional direction, designing the interface and bringing it through implementation and validation.
+I start by understanding the problem, users and product requirements, then define the visual and functional direction, create responsive interfaces and reusable design systems, and prepare the experience for implementation and validation.
 
-I use **AI-assisted tools where they add value to the workflow**, supporting faster exploration, development and iteration while maintaining control over UX, visual quality and implementation decisions.
+My Front-end background allows me to design with implementation in mind, collaborate closely with developers and maintain consistency between the designed experience and the final product.
+
+I use **AI-assisted tools where they add value to the workflow**, supporting faster exploration, implementation and iteration while maintaining control over UX, visual quality and implementation decisions.
 
 ---
 
@@ -163,4 +167,4 @@ joanacastro.webdeveloper@gmail.com
 
 ---
 
-### Design & Development — Joana Castro
+### UI/UX & Product Design · Front-end Background — Joana Castro
